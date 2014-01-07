@@ -202,6 +202,8 @@ $ sudo pacman -S ruby
 
 Fedora use YUM package manager system. You can use it like this:
 
+FedoraはYUMパッケージマネジメントシステムを使っています。YUMを使うことでRubyをインストールできます。
+
 {% highlight sh %}
 $ su -c "yum install ruby"
 {% endhighlight %}
@@ -210,6 +212,8 @@ The installed version is typically the latest version of Ruby available
 when specific version of Fedora was released (e.g. Ruby 2.0.0 is
 available in Fedora 20 while Fedora 21 will most likely provide
 Ruby 2.1.0).
+
+インストールされるRubyのバージョンは、一般的に、Fedoraがリリースされた時の最新の安定版Rubyの最新バージョンです（例えば、Fedora 20ではRuby 2.0.0がインストールされ、Fedora 21ではおそらくRuby 2.1.0が提供されるでしょう）。
 
 ##### Other Distributions
 
