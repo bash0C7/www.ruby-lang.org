@@ -24,8 +24,8 @@ machine, check the **third party tools** section and use RVM. It’s by
 far the best way to accomplish that, unless you know exactly what you’re
 doing.
 
-同じマシンで複数のバージョンのRubyを共存させたい場合、**サードパーティツール**のセクションを参照し、RVMを利用してください。
-何が行われているのか正確に分からないならばいい方法でしょう。
+同じマシンで複数バージョンのRubyを共存させたい場合、**サードパーティツール**のセクションを参照し、RVMを利用してください。
+複数バージョンのRubyを共存させるためにすることがよく分からない場合、RVMを利用することはいい方法でしょう。
 
 ### ソースコードからRubyをコンパイルする
 
