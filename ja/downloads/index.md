@@ -179,6 +179,9 @@ instead.
 Debian GNU/Linux or Ubuntu use the apt package manager system.
 You can use it like this:
 
+Debina GNU/LinuxやUbuntuはaptパッケージマネジメントシステムを使っています。
+次のコマンドを使うことで、Rubyのインストールが出来ます。
+
 {% highlight sh %}
 $ sudo apt-get install ruby1.9.1
 {% endhighlight %}
@@ -186,8 +189,14 @@ $ sudo apt-get install ruby1.9.1
 Yes, this will install Ruby 1.9.2 or newer. It has a ‘library
 compatibility version’ of 1.9.1, hence the name.
 
+これで、Ruby 1.9.2やそれより新しいバージョンがインストールされます。
+名前が1.9.1なのは、ライブラリの互換性バージョンを表しているためです。
+
 If you install the ‘ruby’ package, you might get the older Ruby 1.8,
 depending on the distro.
+
+もし、‘ruby’パッケージをインストールすれば、ディストリビューションにもよりますが、
+Ruby 1.8よりも古いバージョンがインストールされるかもしれません。
 
 ##### Arch Linux
 
