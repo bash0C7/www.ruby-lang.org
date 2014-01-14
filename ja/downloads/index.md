@@ -152,12 +152,18 @@ If you’re on Windows, there’s a great project to help you install Ruby:
 [RubyInstaller][8]. It gives you everything you need to set up a full
 Ruby development environment on Windows.
 
+あなたがWindowsをお使いの場合は、素晴らしいプロジェクト：[RubyInstaller][8]がRubyをインストールする助けとなるでしょう。これは、Windows上でRubyの開発環境をセットアップするに必要なものすべてを提供してくれます。
+
 To use RubyInstaller, download it from the [RubyInstaller download
 page][9]. Then just use the installer, and you’re done!
+
+Rubyインストーラを使うには、[RubyInstaller download page][9]からダウンロードして、インストーラーを実行すること、それだけです。
 
 If you are installing Ruby in order to use Rails, you should use
 [RailsInstaller][10] which uses RubyInstaller but gives you extra tools
 that help with Rails development.
+
+Railsを使うためにRubyをインストールするつもりであれば、[RailsInstaller][10]を使うべきでしょう。RailsInstallerは、RubyInstallerよりもRailsの開発の助けとなる追加のツールを与えてくれます。
 
 ### Package Management Systems
 
